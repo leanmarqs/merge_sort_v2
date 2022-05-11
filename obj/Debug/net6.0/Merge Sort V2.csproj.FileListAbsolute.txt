@@ -1,0 +1,15 @@
+C:\Users\leanm\source\repos\Merge Sort V2\obj\Debug\net6.0\Merge Sort V2.csproj.AssemblyReference.cache
+C:\Users\leanm\source\repos\Merge Sort V2\obj\Debug\net6.0\Merge Sort V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leanm\source\repos\Merge Sort V2\obj\Debug\net6.0\Merge Sort V2.AssemblyInfoInputs.cache
+C:\Users\leanm\source\repos\Merge Sort V2\obj\Debug\net6.0\Merge Sort V2.AssemblyInfo.cs
+C:\Users\leanm\source\repos\Merge Sort V2\obj\Debug\net6.0\Merge Sort V2.csproj.CoreCompileInputs.cache
+C:\Users\leanm\source\repos\Merge Sort V2\bin\Debug\net6.0\Merge Sort V2.exe
+C:\Users\leanm\source\repos\Merge Sort V2\bin\Debug\net6.0\Merge Sort V2.deps.json
+C:\Users\leanm\source\repos\Merge Sort V2\bin\Debug\net6.0\Merge Sort V2.runtimeconfig.json
+C:\Users\leanm\source\repos\Merge Sort V2\bin\Debug\net6.0\Merge Sort V2.dll
+C:\Users\leanm\source\repos\Merge Sort V2\bin\Debug\net6.0\Merge Sort V2.pdb
+C:\Users\leanm\source\repos\Merge Sort V2\obj\Debug\net6.0\Merge Sort V2.dll
+C:\Users\leanm\source\repos\Merge Sort V2\obj\Debug\net6.0\refint\Merge Sort V2.dll
+C:\Users\leanm\source\repos\Merge Sort V2\obj\Debug\net6.0\Merge Sort V2.pdb
+C:\Users\leanm\source\repos\Merge Sort V2\obj\Debug\net6.0\Merge Sort V2.genruntimeconfig.cache
+C:\Users\leanm\source\repos\Merge Sort V2\obj\Debug\net6.0\ref\Merge Sort V2.dll

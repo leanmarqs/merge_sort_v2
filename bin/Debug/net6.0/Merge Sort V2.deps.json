@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Merge Sort V2/1.0.0": {
+        "runtime": {
+          "Merge Sort V2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Merge Sort V2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
